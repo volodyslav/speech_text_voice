@@ -1,0 +1,6 @@
+PyQt5
+Pillow
+matplotlib
+textblob
+SpeechRecognition
+PyAudio
